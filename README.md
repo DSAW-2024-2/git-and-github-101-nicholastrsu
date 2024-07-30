@@ -11,4 +11,4 @@ Bienvenido a tu primer taller de la asignatura, para completarlo es necesario qu
 
 - **Nombre completo:** Nicholas Triana Sutachan
 - **ID de la Universidad:** 0000287552
-- **Usuario de Github:** nicholastrsu 
+- **Usuario de Github:** nicholastrsu
